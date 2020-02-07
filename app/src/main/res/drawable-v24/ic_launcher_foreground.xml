@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="AndroidLogFilters">
+        <option
+            name="TOOL_WINDOW_CONFIGURED_FILTER"
+            value="Show only selected application" />
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="27315291-9d66-4a5e-a565-323bf5668061">
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/presentation/src/main/res/menu/readme.md" />
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/presentation/src/main/assets/translations_0_da-DK.json"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/presentation/src/main/assets/translations_0_da-DK.json" />
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/presentation/src/main/assets/translations_1_en-GB.json"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/presentation/src/main/assets/translations_1_en-GB.json" />
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/presentation/src/main/assets/translations_2_es-MX.json"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/presentation/src/main/assets/translations_2_es-MX.json" />
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/presentation/src/main/assets/translations_3_fr-FR.json"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/presentation/src/main/assets/translations_3_fr-FR.json" />
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/presentation/src/main/java/dk/nodes/template/presentation/nstack/Translation.java"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/presentation/src/main/java/dk/nodes/template/presentation/nstack/Translation.java" />
+            <change
+                afterPath="$PROJECT_DIR$/presentation/src/main/java/dk/
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/presentation/src/main/java/dk/nodes/template/presentation/ui/main/MainActivityViewModel.kt"
